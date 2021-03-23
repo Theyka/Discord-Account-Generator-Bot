@@ -1,0 +1,6 @@
+discord.py
+discord
+requests
+ruamel.yaml
+aiohttp
+aioconsole
