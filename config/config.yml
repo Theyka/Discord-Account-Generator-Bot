@@ -1,0 +1,8 @@
+token: bot-token
+
+channels: #channels for generators
+  steam: xxx
+  minecraft: xxx
+  
+admin: #admin users id
+  - xxx
